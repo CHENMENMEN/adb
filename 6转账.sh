@@ -1,0 +1,1 @@
+./sedrawallet send -t x:xxxxx --send-amount 5000

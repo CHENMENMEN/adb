@@ -1,0 +1,1 @@
+./sedrad --utxoindex --appdir ./data

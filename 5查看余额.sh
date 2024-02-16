@@ -1,0 +1,1 @@
+./sedrawallet balance

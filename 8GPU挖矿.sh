@@ -1,0 +1,1 @@
+./sedraminer-gpu -s 127.0.0.1:22110 --miningaddr=sedra:qrkxuf4lyfnmluwazc20k07taapn6evy88633fqw8m4p8y8tae9uc7tvjtuc7
